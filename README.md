@@ -6,6 +6,7 @@ This repository contains our team's submission for the Datathon at our universit
 
 - **Team:** Jingyi Chen
 - **Source Code:** [`/code/datathon--datawiz.ipynb`](./code/datathon--datawiz.ipynb)
+- - **Final Presentation (Slides):** [`/presentation/datathon--datawiz.pdf`](./presentation/datathon--datawiz.pdf)
 
 ## The Challenge
 
